@@ -1,0 +1,39 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+header{
+  background-color:#415e9b;
+  height: 82px;
+  border-bottom:1px solid white;
+}
+
+  #log{
+    width:150px;
+  }
+
+#dau{
+  width:360px;
+  margin-top:0px;
+}
+#new{
+  width:160px;
+  margin-left:65px
+}
+.b{
+  color:grey;
+}
+#paswword{
+  height: 30px;
+}
+#log{
+ width:300px; 
+ margin-left: 50px
+  
+}
+.bgc{
+  background-color:darkgrey;
+}
+#password{
+  margin-left:
+}
